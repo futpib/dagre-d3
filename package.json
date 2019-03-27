@@ -1,5 +1,5 @@
 {
-  "name": "dagre-d3",
+  "name": "@futpib/dagre-d3",
   "version": "0.6.4-pre",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
