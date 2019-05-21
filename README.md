@@ -1,4 +1,6 @@
 # dagre-d3 - A D3-based renderer for dagre
+[![Build Status](https://travis-ci.org/futpib/dagre-d3.svg?branch=master)](https://travis-ci.org/futpib/dagre-d3)
+
 
 [Dagre](https://github.com/dagrejs/dagre) is a JavaScript library that makes it easy to lay out directed graphs on
 the client-side. The dagre-d3 library acts as a front-end to dagre, providing
@@ -6,6 +8,12 @@ actual rendering using [D3](http://d3js.org).
 
 For more details, including examples and configuration options, please see our
 [wiki](https://github.com/dagrejs/dagre-d3/wiki).
+
+## Install
+
+```bash
+yarn add '@futpib/dagre-d3'
+```
 
 ## License
 

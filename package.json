@@ -3,6 +3,9 @@
   "version": "0.6.4-pre2",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
+  "scripts": {
+    "test": "make test"
+  },
   "keywords": [
     "graph",
     "dagre",
